@@ -1,6 +1,6 @@
 # todoList (Uma lista de tarefas)
 
-(todoList website)[https://mytodolist-taupe.vercel.app/]
+[todoList website](https://mytodolist-taupe.vercel.app/)
 
 ## Instruções para rodar o projeto:
 
